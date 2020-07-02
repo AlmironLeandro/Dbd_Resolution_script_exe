@@ -1,0 +1,2 @@
+# Dbd_Resolution_script_exe
+pythonScriptForDeadBydaylight
